@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Welcome to my Github profile!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +10,15 @@ Welcome to my Github profile!
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my GitHub profile!
 
+Here you'll find a collection of my professional programming projects.
+
+I have a strong background in software development, and I am always looking to learn and improve my skills.
+
+Feel free to take a look around and see what I have to offer.
+
+Thank you for visiting!
 
 
 
