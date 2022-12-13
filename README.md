@@ -15,7 +15,8 @@ I'm a full stack web developer with experience in Project Management and a passi
 ### aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
 -->
 
-### aMAZEthing
+### aMAZEthing
+
 Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
 
 ### Tactic-toe
