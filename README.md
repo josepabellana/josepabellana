@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi there 👋
+
+
+## Full Stack Web Dev
+
+
+I'm a full stack web developer with experience in Project Management and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
+
+- TypeScript & Javascript
+- React.js, Angular.js, Redux
+- Node.js, Express.js, Koa
+- Relational & non relational Databases [Postgres, Mongodb]
+
+<!--
+### aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
+-->
+
+### aMAZEthing
+Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
+
+### Tactic-toe
+A web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -9,19 +30,6 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-Welcome to my GitHub profile!
-
-Here you'll find a collection of my professional programming projects.
-
-I have a strong background in software development, and I am always looking to learn and improve my skills.
-
-Feel free to take a look around and see what I have to offer.
-
-Thank you for visiting!
-
-
-
 
 [![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepabellana)](https://github.com/josepabellana/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepabellana&theme=tokyonight)
