@@ -19,7 +19,7 @@ I'm a full stack web developer with experience in Project Management and a passi
 
 Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
 
-### Tactic-toe
+### Tactic-toe - https://tactictoe.net/login
 A web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
 <!--
