@@ -11,6 +11,7 @@ I'm a full stack web developer with experience in Project Management and a passi
 - Node.js, Express.js, Koa
 - Relational & non relational Databases [Postgres, Mongodb]
 
+Check my personal Website -> https://josepabellana.com
 <!--
 ### aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
 -->
