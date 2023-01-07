@@ -16,10 +16,10 @@ Check my personal Website -> https://josepabellana.com
 ### aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
 -->
 ## Projects
-### aMAZEthing
+### aMAZEthing - https://jjamazething.netlify.app
 Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
 
-### Tactic-toe - https://tactictoe.net/login
+### Tactic-toe - https://tactictoe.net
 A web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
 ### Premier Farming
