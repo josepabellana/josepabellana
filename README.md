@@ -28,6 +28,8 @@ A web app that allows users to train their own Tic-Tac-Toe AI model and engage i
 ### Atypical - [Atypical](https://atypeical.netlify.app)
 The solution is a web application where you can test your typing skills with different difficulties.
 
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
