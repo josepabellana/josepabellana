@@ -25,8 +25,8 @@ Real-time multiplayer game with a learning component. Algorithms such as Merge S
 ### Tactic-toe - [TacTic-Toe](https://tactictoe.net)
 A web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
-### Premier Farming
-The solution is a mobile application where each farmer can access the farms and place an order to the company's factory.
+### Atypical - [Atypical](https://atypeical.netlify.app)
+The solution is a web application where you can test your typing skills with different difficulties.
 
 <!--
 - 🔭 I’m currently working on ...
