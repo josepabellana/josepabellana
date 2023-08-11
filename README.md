@@ -1,10 +1,9 @@
 # Hi there 👋
 
 
-## Full Stack Web Dev
+## Software Dev
 
-
-I'm a full stack web developer with experience in Project Management and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
+I'm a full software developer with experience in Project Management and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
 
 - TypeScript & Javascript
 - React.js, Angular.js, Redux
@@ -14,6 +13,7 @@ I'm a full stack web developer with experience in Project Management and a passi
 [Personal Website](https://josepabellana.com)
 
 [LeetCode](https://leetcode.com/josepabellana/)
+
 
 <!--
 ### aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
