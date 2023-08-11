@@ -8,7 +8,7 @@ I'm a full stack web developer with experience in Project Management and a passi
 
 - TypeScript & Javascript
 - React.js, Angular.js, Redux
-- Node.js, Express.js, Koa
+- Nodejs, Express
 - Relational & non relational Databases [Postgres, Mongodb]
 
 [Personal Website](https://josepabellana.com)
