@@ -5,7 +5,7 @@
 
 I'm a full software developer with experience in Project Management and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
 
-- TypeScript & Javascript
+- TypeScript/Javascript, Java/Scala, Python
 - React.js, Angular.js, Redux
 - Nodejs, Express
 - Relational & non relational Databases [Postgres, Mongodb]
