@@ -18,6 +18,10 @@ I'm a full software developer with experience in Project Management and Data ana
 Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
 
 
+
+
+## Some Stats
+
 [![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepabellana)](https://github.com/josepabellana/github-readme-stats)
 <a href="http://www.github.com/josepabellana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=josepabellana&stroke=ffffff&background=1c1917&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
  
