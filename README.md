@@ -1,6 +1,6 @@
-## Software Developer
+## Hi!
 
-I'm a full software developer with experience in Project Management and Data analysis. With passion for creating applications using a variety of technologies, including:
+I'm a software developer with experience in:
 
 - TypeScript/Javascript, Java/Scala, Python
 - Experience with Spark ecosystem(Databricks) - sparkSQL, pyspark, sparkScala
