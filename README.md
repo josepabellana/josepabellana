@@ -4,6 +4,7 @@ I'm a software developer with experience in:
 
 - TypeScript/Javascript, Java/Scala, Python
 - Experience with Spark ecosystem(Databricks) - sparkSQL, pyspark, sparkScala
+- Experience with Odoo
 - React.js, Angular.js or others
 
 - Worked with Webrtc, a peer to peer technology that supports video, voice, and generic data to be sent between peers
