@@ -12,14 +12,6 @@ I'm a software developer with experience in:
 
 [Personal Website](https://josepabellana.com) [LeetCode](https://leetcode.com/josepabellana/) [Codewars](https://www.codewars.com/users/josepabellana)
 
-
-## Projects
-### AlgorithmPathLearning - [Amazething](https://chipper-kataifi-8ab766.netlify.app/)
-Real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
-
-
-
-
 ## Some Stats
 
 [![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepabellana)](https://github.com/josepabellana/github-readme-stats)
