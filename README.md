@@ -12,8 +12,3 @@ I'm a software developer with experience in:
 - Experience with Tableau, Alteryx and PowerBI
 
 [Personal Website](https://josepabellana.com) [LeetCode](https://leetcode.com/josepabellana/) [Codewars](https://www.codewars.com/users/josepabellana)
-
-## Some Stats
-
-[![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepabellana)](https://github.com/josepabellana/github-readme-stats)
-
